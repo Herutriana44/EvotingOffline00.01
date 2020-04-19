@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">EVOTING</string>
+    <string-array name="kelas">
+    	<item>KEPALA SEKOLAH</item>
+    	<item>GURU</item>
+    	<item>STAFF TU</item>
+    	<item>PENJAGA SEKOLAH</item>
+    	<item>XII MIPA 1</item>
+    	<item>XII MIPA 2</item>
+    	<item>XII MIPA 3</item>
+    	<item>XII MIPA 4</item>
+    	<item>XII MIPA 5</item>
+    	<item>XII IPS 1</item>
+    	<item>XII IPS 2</item>
+    	<item>XII IPS 3</item>
+    	<item>XI MIPA 1</item>
+    	<item>XI MIPA 2</item>
+    	<item>XI MIPA 3</item>
+    	<item>XI MIPA 4</item>
+    	<item>XI MIPA 5</item>
+    	<item>XI IPS 1</item>
+    	<item>XI IPS 2</item>
+    	<item>XI IPS 3</item>
+    	<item>X MIPA 1</item>
+    	<item>X MIPA 2</item>
+    	<item>X MIPA 3</item>
+    	<item>X MIPA 4</item>
+    	<item>X MIPA 5</item>
+    	<item>X IPS 1</item>
+    	<item>X IPS 2</item>
+    	<item>X IPS 3</item>
+    </string-array>
+</resources>
